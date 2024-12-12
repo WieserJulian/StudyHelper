@@ -1,0 +1,190 @@
+	  AI Basics and Practical Training	25,50
+........  UE Hands-on AI I	1,50
+........  VL Hands-on AI I	1,50
+........  UE Hands-on AI II	3,00
+........  VL Hands-on AI II	1,50
+........  VL Introduction to AI	3,00
+........  PR Practical Work in AI	7,50
+........  SE Seminar in AI	3,00
+........  UE Artificial Intelligence	1,50
+........  VL Artificial Intelligence	3,00
+	  AI and Society	10,50
+........  VL Lecture Series Artificial Intelligence	1,50
+........  KV Responsible AI	3,00
+........  KV Technology and Society	3,00
+	........  Gender Studies	3,00
+................  KV Ethik und Gender Studies	3,00
+................  KV Gender Studies und soziale Kompetenz	3,00
+................  KV Introduction into Gender Studies in Science and Engineering	3,00
+................  KS Einführung in IKT, Gesellschaft, Gender und Diversity	3,00
+................  KV Gender and Diversity in Computer Science and Engineering: Perspectives from Sociocultural Studies and Ethics	3,00
+	  Computer Science	18,00
+........  UE Programming in Python I	3,00
+........  VL Programming in Python I	3,00
+........  UE Programming in Python II	1,50
+........  VL Programming in Python II	1,50
+........  UE Algorithms and Data Structures 1	1,50
+........  VL Algorithms and Data Structures 1	3,00
+........  UE Algorithmen und Datenstrukturen 2	1,50
+........  VL Algorithmen und Datenstrukturen 2	3,00
+	  Data Science	33,00
+........  UE Statistics for AI	3,00
+........  VL Statistics for AI	3,00
+........  KV Basic Methods of Data Analysis	3,00
+........  UE Visual Analytics	1,50
+........  VL Visual Analytics	3,00
+........  UE Learning from User-generated Data	1,50
+........  VL Learning from User-generated Data	3,00
+........  KV Computational Data Analytics	3,00
+........  UE Introduction to Computational Statistics	1,50
+........  VL Introduction to Computational Statistics	3,00
+........  UE Natural Language Processing	1,50
+........  VL Natural Language Processing	1,50
+........  UE Digital Signal Processing	1,50
+........  VL Digital Signal Processing	3,00
+	  Knowledge Representation and Reasoning	13,50
+........  UE Logic	1,50
+........  VL Logic	3,00
+........  UE Formal Models	1,50
+........  VL Formal Models	3,00
+........  UE Computational Logics for AI	1,50
+........  VL Computational Logics for AI	3,00
+	  Machine Learning and Perception	18,00
+........  UE Machine Learning: Supervised Techniques	1,50
+........  VL Machine Learning: Supervised Techniques	3,00
+........  UE Machine Learning: Unsupervised Techniques	1,50
+........  VL Machine Learning: Unsupervised Techniques	3,00
+........  UE Machine Learning and Pattern Classification	1,50
+........  VL Machine Learning and Pattern Classification	3,00
+........  UE Reinforcement Learning	1,50
+........  VL Reinforcement Learning	3,00
+	  Mathematics	31,50
+........  UE Mathematics for AI I	3,00
+........  VL Mathematics for AI I	6,00
+........  UE Mathematics for AI II	3,00
+........  VL Mathematics for AI II	6,00
+........  UE Mathematics for AI III	3,00
+........  VL Mathematics for AI III	6,00
+........  UE Numerical Optimization	1,50
+........  VL Numerical Optimization	3,00
+	  Area of Specialization	12,00
+	........  Computer and Data Science	0,00
+................  UE Berechenbarkeit und Komplexität	1,50
+................  VL Berechenbarkeit und Komplexität	3,00
+................  UE Embedded and Pervasive Systems	1,50
+................  VL Embedded and Pervasive Systems	3,00
+................  UE Softwareentwicklung 1	3,00
+................  VL Softwareentwicklung 1	3,00
+................  UE Softwareentwicklung 2	3,00
+................  VL Softwareentwicklung 2	3,00
+................  KV Conceptual Data Modeling	3,00
+................  KV Debugging	3,00
+................  KV Hardware Design	4,50
+................  VL Information Displays	3,00
+................  KV Information Visualization	4,50
+................  KV Knowledge Based Systems	3,00
+................  KV Mobile Computing	3,00
+................  KV Multimedia Search and Retrieval	4,50
+................  KV Semantic Data Modeling and Applications	3,00
+................  KV Statistical Principles of Data Science	6,00
+................  PR Computational Data Analytics	1,50
+................  UE Datenbanken und Informationssysteme 1	3,00
+................  VL Datenbanken und Informationssysteme 1	3,00
+................  UE Datenbanken und Informationssysteme 2	1,50
+................  VL Datenbanken und Informationssysteme 2	3,00
+	........  Mathematics	0,00
+................  VL Inverse Problems	3,00
+................  VL Stochastic Processes	3,00
+................  VL Algorithmische Kombinatorik	3,00
+................  VL Berechenbarkeitstheorie	3,00
+................  UE Computational Geometry	1,50
+................  VL Computational Geometry	3,00
+................  UE Computer Algebra for Concrete Mathematics	1,50
+................  VL Computer Algebra for Concrete Mathematics	3,00
+................  VL Formales Modellieren	3,00
+................  VL Formal Semantics of Programming Languages	3,00
+................  UE Funktionalanalysis	1,50
+................  VL Funktionalanalysis	4,50
+................  UE Manyvalued Logic	1,50
+................  VL Manyvalued Logic	3,00
+................  UE Fuzzy Systems	1,50
+................  VL Fuzzy Systems	3,00
+................  UE Inverse Probleme	1,50
+................  UE Markov Chains	1,50
+................  VL Markov Chains	3,00
+................  UE Optimierung	1,50
+................  VL Optimierung	4,50
+................  VL Rewriting in Computer Science and Logic	3,00
+................  VL Special Topics Optimization	3,00
+................  VL Spezialvorlesung Symbolisches Rechnen	3,00
+................  VL Special Topics Probability Theory and Mathematical Statistics	3,00
+................  VL Spezialvorlesung Wissensbasierte mathematische Systeme	3,00
+................  UE Stochastische Prozesse	1,50
+................  VL Wissens- und Datenbasiertes Modellieren	3,00
+................  KV Practical in Logic and Software Design	3,00
+................  UE Mathematical logic 1	1,50
+................  VL Mathematical logic 1	3,00
+................  KV Programming project symbolic computation	3,00
+................  UE Computer Analysis	1,50
+................  VL Computer Analysis	3,00
+................  UE Gewöhnliche Differentialgleichungen und Dynamische Systeme	1,50
+................  VL Gewöhnliche Differentialgleichungen und Dynamische Systeme	4,50
+................  UE Wahrscheinlichkeitstheorie und Statistik	3,00
+................  VL Wahrscheinlichkeitstheorie und Statistik	6,00
+	........  Mechatronics	0,00
+................  UE Einführung in die Elektrotechnik	3,00
+................  VL Einführung in die Elektrotechnik	3,00
+................  UE Signale und Systeme	1,50
+................  VL Signale und Systeme	4,50
+................  UE Technische Mechanik 1	3,00
+................  VL Technische Mechanik 1	3,00
+	........  Life Sciences	0,00
+................  KV Genome Analysis & Transcriptomics	3,00
+................  KV Structural Bioinformatics	3,00
+................  UE Sequence Analysis and Phylogenetics	3,00
+................  VL Sequence Analysis and Phylogenetics	3,00
+................  VL Organic Chemistry 1 for Biological Chemistry	4,50
+................  UE Bioanalytics I	1,50
+................  VL Bioanalytics I	3,00
+................  UE Molekulare Biologie der Zelle I	1,50
+................  VL Molekulare Biologie der Zelle I	3,00
+................  KV Topics in Genetics & Evolution	3,00
+................  VU Advanced Topics of Molecular Biotechnologies	3,00
+................  VL Biochemistry	3,00
+................  VL Instrumental Analytical Chemistry	3,00
+................  VL Introduction to Organic Chemistry	3,00
+................  VL Organic Chemistry 1	4,50
+................  VL Advanced NMR 1	1,50
+................  VL Organische Chemie für Physik	3,00
+................  UE Artificial Intelligence in Life Sciences	1,50
+................  VL Artificial Intelligence in Life Sciences	1,50
+................  VL NMR Spectroscopy	1,50
+................  VL Introduction to Genetics	1,50
+	........  Special Topics	0,00
+................  KV Special Topics in AI	1,50
+................  UE Special Topics in AI	1,50
+................  VL Special Topics in AI	1,50
+................  KV Special Topics in AI	3,00
+................  UE Special Topics in AI	3,00
+................  VL Special Topics in AI	3,00
+................  KV Special Topics in AI	4,50
+................  VL Special Topics in AI	4,50
+................  SE Special Topics in AI	3,00
+................  KV Special Topics (1,5 ECTS)	1,50
+................  UE Special Topics (1,5 ECTS)	1,50
+................  VL Special Topics (1,5 ECTS)	1,50
+................  KV Special Topics (3 ECTS)	3,00
+................  UE Special Topics (3 ECTS)	3,00
+................  VL Special Topics (3 ECTS)	3,00
+................  KV Special Topics (4,5 ECTS)	4,50
+................  SE Special Topics	3,00
+	........  Miscellaneous	0,00
+................  VL Rechtsgrundlagen der Informatik	3,00
+................  VL Wirtschaftsgrundlagen der Informatik	3,00
+................  VL Computer Forensics and IT Law	3,00
+................  VL Thinking, Speaking, Writing	3,00
+................  KV Scientific Writing and Presenting	3,00
+................  VL Literature Searching, Publishing and Patents	1,50
+	  Bachelor's Thesis	9,00
+........  SE Bachelor’s Thesis Seminar in AI	9,00
+  Free Electives	9,00

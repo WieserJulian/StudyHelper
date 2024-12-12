@@ -1,0 +1,138 @@
+	  Propädeutikum	1,50
+........  KV Propädeutikum	1,50
+	  Theorie	36,00
+........  UE Algebra für Informatik	3,00
+........  VL Algebra für Informatik	3,00
+........  UE Analysis für Informatik	3,00
+........  VL Analysis für Informatik	3,00
+........  UE Berechenbarkeit und Komplexität	1,50
+........  VL Berechenbarkeit und Komplexität	3,00
+........  UE Diskrete Strukturen	1,50
+........  VL Diskrete Strukturen	3,00
+........  UE Formal Models	1,50
+........  VL Formal Models	3,00
+........  UE Logic	1,50
+........  VL Logic	3,00
+........  UE Statistik	3,00
+........  VL Statistik	3,00
+	  Hardware	19,50
+........  UE Rechnerarchitektur	1,50
+........  VL Rechnerarchitektur	4,50
+........  UE Digitale Schaltungen	1,50
+........  VL Digitale Schaltungen	3,00
+........  UE Digital Signal Processing	1,50
+........  VL Digital Signal Processing	3,00
+........  UE Elektronik	1,50
+........  VL Elektronik	3,00
+	  Software	31,50
+........  UE Algorithmen und Datenstrukturen 1	1,50
+........  VL Algorithmen und Datenstrukturen 1	3,00
+........  UE Algorithmen und Datenstrukturen 2	1,50
+........  VL Algorithmen und Datenstrukturen 2	3,00
+........  PR Praktikum aus Softwareentwicklung 2	3,00
+........  UE Software Engineering	1,50
+........  VL Software Engineering	3,00
+........  UE Softwareentwicklung 1	3,00
+........  VL Softwareentwicklung 1	3,00
+........  UE Softwareentwicklung 2	3,00
+........  VL Softwareentwicklung 2	3,00
+........  UE Systems Programming	1,50
+........  VL Systems Programming	1,50
+	  Systeme	24,00
+........  UE Betriebssysteme	1,50
+........  VL Betriebssysteme	3,00
+........  UE Embedded and Pervasive Systems	1,50
+........  VL Embedded and Pervasive Systems	3,00
+........  UE Multimediasysteme	1,50
+........  VL Multimediasysteme	3,00
+........  UE Computernetzwerke	1,50
+........  VL Computernetzwerke	3,00
+........  UE Compilerbau	3,00
+........  VL Compilerbau	3,00
+	  Anwendungen	22,50
+........  UE Artificial Intelligence	1,50
+........  VL Artificial Intelligence	3,00
+........  VL Introduction to Machine Learning	3,00
+........  UE Computer Graphics	1,50
+........  VL Computer Graphics	3,00
+........  UE Datenbanken und Informationssysteme 1	3,00
+........  VL Datenbanken und Informationssysteme 1	3,00
+........  UE Datenbanken und Informationssysteme 2	1,50
+........  VL Datenbanken und Informationssysteme 2	3,00
+	  Begleitende Inhalte	15,00
+	........  Gender Studies	3,00
+................  KV Ethik und Gender Studies	3,00
+................  KV Gender Studies und soziale Kompetenz	3,00
+................  KV Gender Studies TNF - Einführung	3,00
+................  KS Einführung in IKT, Gesellschaft, Gender und Diversity	3,00
+........  KV Projektorganisation	3,00
+........  KV Präsentations- und Arbeitstechnik	3,00
+........  VL Rechtsgrundlagen der Informatik	3,00
+........  VL Wirtschaftsgrundlagen der Informatik	3,00
+	  Vertiefung	13,50
+	........  Allgemeine Vertiefung	0,00
+................  UE Machine Learning: Unsupervised Techniques	1,50
+................  VL Machine Learning: Unsupervised Techniques	3,00
+................  UE Sequence Analysis and Phylogenetics	3,00
+................  VL Sequence Analysis and Phylogenetics	3,00
+................  KV Advanced Compiler Construction	3,00
+................  KV SAT Solving	3,00
+................  KV Model Engineering for Data-Intensive Systems	3,00
+................  KV Application Oriented Knowledge Processing	3,00
+................  KV Assistive Technologies and Accessibility	3,00
+................  VL Biometrische Identifikation	3,00
+................  KV Web Performance	3,00
+................  KV Cloud Security	3,00
+................  KV Conceptual Data Modeling	3,00
+................  KV Debugging	3,00
+................  KV Digitale Bildverarbeitung	3,00
+................  KV Engineering of AI-intensive Systems	3,00
+................  VL Human/Computer Interaction	3,00
+................  VL Information Displays	3,00
+................  KV Advanced Interactive Visualization	4,50
+................  KV Mobile Computing	3,00
+................  KV Modeling and Computer Simulation	3,00
+................  KV Modeling Internet Applications	3,00
+................  UE Probabilistic Models	1,50
+................  KV Product Line Engineering	3,00
+................  KV Semantic Data Modeling and Applications	3,00
+................  KV Statistics 2	3,00
+................  UE Machine Learning: Advanced Techniques	1,50
+................  VL Machine Learning: Advanced Techniques	3,00
+................  KV VLSI Design	3,00
+................  KV Web Engineering	3,00
+................  KV Web Search and Mining	3,00
+................  UE Computer Algebra for Concrete Mathematics	1,50
+................  UE Computer Algebra	1,50
+................  VL Computer Algebra	3,00
+................  KV Web Security	3,00
+................  KV Web Usability	1,50
+................  UE Computational Geometry	1,50
+................  VL Computational Geometry	3,00
+................  PR Praktikum: Digitale Schaltungstechnik	3,00
+................  KV Introduction to Linux	1,50
+................  KV Big Data Engineering	3,00
+................  KV Advanced Operating Systems	3,00
+................  KV Mobile Web Development	3,00
+................  VL Quantum Computing	3,00
+................  KV Cloud Computing	1,50
+................  UE Quantum Computing	1,50
+	........  Seminare	3,00
+................  SE Seminar in Computational Engineering	3,00
+................  SE Seminar in Intelligent Information Systems	3,00
+................  SE Seminar in Networks and Security	3,00
+................  SE Seminar in Pervasive Computing	3,00
+................  SE Seminar in Software Engineering	3,00
+................  SE Seminar in Data Science	3,00
+	........  Spezielle Kapitel	0,00
+................  KV Special Topics	1,50
+................  UE Special Topics	1,50
+................  VL Special Topics	1,50
+................  KV Special Topics	3,00
+................  UE Special Topics	3,00
+................  VL Special Topics	3,00
+................  KV Special Topics	4,50
+................  SE Special Topics	3,00
+	  Bachelorarbeit (inkl. Projektpraktikum)	7,50
+........  PR Projektpraktikum	7,50
+  Freie Studienleistungen	9,00
