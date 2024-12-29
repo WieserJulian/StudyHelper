@@ -19,7 +19,7 @@ class LVA_category:
         txt = f"{'- [x]' if self.ects - self.done_ects <= 0 and self.ects !=0 else '- [ ]'} {self.name}:\tTotal: {self.ects} ECTS - Finished: {self.done_ects} ECTS - Missing: {self.ects - self.done_ects}\n"
         for lva in self.lvas:
             if type(lva) == LVA_category:
-                txt += "\n".join([f"\t{line}" for line in lva.markdown().split("\n")[:-1]]) +"\n"
+                txt += "\n".join([f"\t{line}" for line in lva.markdown().split("\n")]) +"\n"
             else:
                 txt += f"\t{'- [x]' if lva.done else '- [ ]'} {lva.markdown()}\n"
         return txt[:-1]
@@ -113,4 +113,4 @@ if __name__ == '__main__':
     #     print(category)
     handbuch = findStudies("inf_handbuch")
     for category in handbuch:
-        print(category)
+        print(category.markdown())

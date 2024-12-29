@@ -61,7 +61,7 @@ def show_all_compared(filename, skz):
 
 
 if __name__ == '__main__':
-    # not_done = compare("ai_handbuch", "536")
+    # not_done = show_all_compared("ai_handbuch", "536")
     # for lva in not_done:
     #     print(lva)
 
